@@ -8,3 +8,6 @@ Creating a new branch is quick.
 di fan zhi
 Creating a new branch is quick & simple.
 NONGFU SPRING
+
+忽有故人上心头，回首山河已是秋。
+两处相思同淋雪，此生也算共白头。
