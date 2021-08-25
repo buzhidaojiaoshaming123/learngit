@@ -6,3 +6,8 @@ charu yu
 git add text.txt
 git commit -m "<name>"
 
+
+
+
+
+ce shi yi xia zai wei bu cha ru shu ju
